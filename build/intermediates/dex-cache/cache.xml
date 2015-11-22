@@ -2,67 +2,67 @@
 <items version="2" >
 
     <item
-        jar="/Users/P16P/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.3.0/bc535105332645408ef5f1380215cc954b842178/bolts-applinks-1.3.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="bc535105332645408ef5f1380215cc954b842178">
-        <dex dex="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.3.0-5a3b1fe638381590c4a56d797726d248b2ad32e7.jar" />
-    </item>
-    <item
-        jar="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-9fd968d63ba6d7e6b6a3e0a7907661d47e5e06b9.jar" />
-    </item>
-    <item
-        jar="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/pre-dexed/debug/classes-d3c16b1f2615301e39a3468eeb4a8dfcd7fa105a.jar" />
-    </item>
-    <item
-        jar="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/pre-dexed/debug/classes-f29afcec2ad8bfce3e99dc83e7bc7beaf1c7cd61.jar" />
-    </item>
-    <item
-        jar="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/pre-dexed/debug/classes-f07fce5f76475875bc9da21bfdf303bb62d8fc60.jar" />
-    </item>
-    <item
-        jar="/Users/P16P/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.11.0/6592129dec2caa8791d322c7e4b6b7a30e8eadae/parse-android-1.11.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
-        <dex dex="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/pre-dexed/debug/parse-android-1.11.0-39685fe96cb3b8144d2645939cc843b8a67cdf56.jar" />
-    </item>
-    <item
-        jar="/Users/P16P/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.3.0/8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c/bolts-tasks-1.3.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
-        <dex dex="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.3.0-fab3fe3674dcae36ea9f8da47fde137fced4a3f5.jar" />
-    </item>
-    <item
-        jar="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jar="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/pre-dexed/debug/classes-146dd09caaae6fc1d5d231ae62047989eea88850.jar" />
+        <dex dex="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\pre-dexed\debug\classes-248f28ce33a1f9985bebcbc67f8dc5dd1833aa42.jar" />
     </item>
     <item
-        jar="/Users/P16P/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jar="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\pre-dexed\debug\classes-c6c9a52a2eec26bf258579c0296fa7002dc86ab3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.11.0\6592129dec2caa8791d322c7e4b6b7a30e8eadae\parse-android-1.11.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\pre-dexed\debug\parse-android-1.11.0-dd439345b97b30a141c871a64130d486edd2be18.jar" />
+    </item>
+    <item
+        jar="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\pre-dexed\debug\classes-280cf451f98afed67460882c1c4a9af0b6a3c291.jar" />
+    </item>
+    <item
+        jar="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\pre-dexed\debug\classes-987612e41540d9fd0b72400639727f28feeb0f1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.3.0-cc68fe70d7a040798d91bda557b2427adb6b44a0.jar" />
+    </item>
+    <item
+        jar="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-8a6ce3d791faa05f26cd05b79ddaf215efa5fa8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nathan\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0-b612d14cbcfd3568d42c8a2916e47eab2fc8bec7.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Volumes/Mac HDD/Documents/Android Development/HMS/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-6e0f87cf50c2a91eb19fe2bc1bd9201d83697bc4.jar" />
+        <dex dex="D:\Users\Nathan\Documents\GitHub\HMS3310\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15.jar" />
     </item>
 
 </items>
